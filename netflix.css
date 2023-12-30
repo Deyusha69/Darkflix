@@ -6084,9 +6084,7 @@ element {
 .div.selectcontainer;}
 .btnUserRating{display:none;} button[is="emby-ratingbutton"]{display:none;} .noHomeButtonHeader button[data-index="1"]{display:none;} button[data-index="3"]{display:none;}
 .btnPlayTrailer{display:none;}
-.updatePasswordForm {
-  display: none;
-}
+
 .lnkControlsPreferences{
    display:none!important;
 }
@@ -12206,4 +12204,3 @@ element {
 .navMenuOption:hover {
     background: #d70000 !important;
 }
-.headerTabs{display:none}
