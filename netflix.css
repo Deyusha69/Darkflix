@@ -6088,9 +6088,6 @@ element {
 .lnkControlsPreferences{
    display:none!important;
 }
-.lnkMyProfile{
-   display:none!important;
-}
 #loginPage{background:url(https://i.imgur.com/rzk0zYR.jpg?maxwidth=1520&fidelity=grand);background-size:cover}
 .backdropImage {
   display: none;
