@@ -6097,10 +6097,6 @@ element {
   background-image: url('https://i.imgur.com/rzk0zYR.jpg');
   background-size: cover;
 }
-.pageTitleWithDefaultLogo {
-  display: none;
-
-}
 .btnQuick {
     display:none!important;
 }
