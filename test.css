@@ -108,7 +108,6 @@
 .headerSyncButton {display: none;}
 .material-icons.person {display: none;}
 .btnUserRating{display:none;} button[is="emby-ratingbutton"]{display:none;} .noHomeButtonHeader button[data-index="1"]{display:none;} button[data-index="3"]{display:none;}
-.btnPlayTrailer{display:none;}
 .btnQuick {
     display:none!important;
 }
